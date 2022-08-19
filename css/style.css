@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}  
+
+body{
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+   background-color: black;
+}
+
+.conteiner{
+    max-width: 1000px;
+    margin:auto;
+}
+
+header{
+    background-color: blue;
+    text-align: center;
+    color:rgb(246, 250, 9)
+}
+
+.title{
+    font-size: 40px; 
+}
